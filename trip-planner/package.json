@@ -4,6 +4,9 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@netlify/blobs": "^11.1.7"
+    "@netlify/blobs": "11.1.6"
+  },
+  "overrides": {
+    "@netlify/otel": "7.0.6"
   }
 }
